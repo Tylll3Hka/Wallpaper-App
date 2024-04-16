@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Wallpaper</string>
+    <string name="add_wallpaper_btn">Add wallpaper</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="adding">Adding</string>
+    <string name="notifi">Opportunities don\'t happen, you create them.</string>
+</resources>
